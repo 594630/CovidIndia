@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47f7eef5-e048-49d1-a904-4fd267862817" name="testserver2" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\celes\OneDrive\WebStormProjects\CovidIndia" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="a67bb6cd-0f22-43c4-b6d5-76507e787b5a" name="testserver3" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
